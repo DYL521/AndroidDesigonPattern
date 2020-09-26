@@ -13,6 +13,9 @@
 
 ## 4、单例的实现常见方式
     1、饿汉式
-    
+    2、懒汉模式 - 推荐实现方式
 
 
+## 5、使用举例
+ImageLoader
+- https://github.com/nostra13/Android-Universal-Image-Loader
