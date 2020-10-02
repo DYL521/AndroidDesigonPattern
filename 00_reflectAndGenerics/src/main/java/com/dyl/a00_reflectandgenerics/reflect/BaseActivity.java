@@ -1,10 +1,10 @@
-package com.dyl.a00_reflectandgenerics;
+package com.dyl.a00_reflectandgenerics.reflect;
 
 import android.content.Intent;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class BaseActivity extends AppCompatActivity {
+public  class BaseActivity extends AppCompatActivity {
 
 
     // 上限
