@@ -6,6 +6,7 @@
       <module name="008_asytoSyn" target="1.7" />
       <module name="008AsytoSyn" target="1.7" />
       <module name="05_factory" target="1.7" />
+      <module name="DesigonPattern.008_asytoSyn" target="1.8" />
       <module name="DesigonPattern.00_reflectAndGenerics" target="1.8" />
       <module name="DesigonPattern.01_signleton" target="1.8" />
       <module name="DesigonPattern.02_builder" target="1.8" />
