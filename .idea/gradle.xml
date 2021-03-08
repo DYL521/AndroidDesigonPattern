@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/01_signleton" />
             <option value="$PROJECT_DIR$/02_builder" />
             <option value="$PROJECT_DIR$/05_factory" />
+            <option value="$PROJECT_DIR$/06_abstactFactory" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
