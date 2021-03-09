@@ -1,4 +1,4 @@
-package com.example.a21_decorator;
+package com.example.a21_decorator.template;
 
 /**
  * @author DYL
