@@ -1,4 +1,4 @@
-package com.example.a20_adapter;
+package com.example.a20_adapter.dome1;
 
 /**
  * @author DYL

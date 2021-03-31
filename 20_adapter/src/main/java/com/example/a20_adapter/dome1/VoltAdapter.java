@@ -1,7 +1,7 @@
-package com.example.a20_adapter;
+package com.example.a20_adapter.dome1;
 
 /**
- * @author DYL
+ * @author DYL 2182
  *
  *  Adapter ,将220转换城5v
  */
